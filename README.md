@@ -7,8 +7,9 @@ Terrain tools for Unity: quick splatting and object placement
 
 <h1>Usage</h1>
 This is a quick Unity tool to get terrains up and running quickly which handles splatting, trees and details.
+
 <ul>
-  <l1>Add the files to your project, ensure you keep the same folder structure.</l1>
+  <li>Add the files to your project, ensure you keep the same folder structure.</li>
   <li>Create an empty game object and add the TerrainTools compoent.</li>
   <li>Assign your terrain to the Terrain slot</li>
   <li>Ensure your terrain has a texture layer setup, then click Update Terrain Layer Data</li>
